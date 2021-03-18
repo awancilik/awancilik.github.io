@@ -1,0 +1,3 @@
+- 🔭 I’m currently working as Full Timer in one of largest palm oil companies in the world, mostly using ASP.NET MVC, C#, Automation Anywhere, VBScript, PHP.
+- 🌱 I’m currently learning Rust, Go and Docker
+- 😄 Pronouns: He/Him
